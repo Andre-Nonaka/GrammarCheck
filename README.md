@@ -1,0 +1,1 @@
+Simple program that corrects grammatically incorrect phrases.
