@@ -1,7 +1,7 @@
 
 //Andre Nonaka
 //Wednesday October 24th 2018
-public class Oct24_AndreNonaka{  
+public class Grammar_AndreNonaka{  
 public static void main(String args[]){  
 String s1="My thame is Lrank.I live to Caridnal Lenngther 2ndary Stchool. The nuform there are very bard. My matesclass is in my 1st periodt. We talk berry muth.";  //This is the grammatically incorect sentenece
   String sNew=s1.replace("thame","name");//replaces all occurrences of "thame" to "name"
